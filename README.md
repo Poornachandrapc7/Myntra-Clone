@@ -1,5 +1,5 @@
 # Myntra Frontend Clone  
-Check out here --> [(https://poornachandrapc7.github.io/Myntra-Clone/)](https://poornachandrapc7.github.io/Myntra-Clone/)
+Check out here --> [https://poornachandrapc7.github.io/Myntra-Clone/](https://poornachandrapc7.github.io/Myntra-Clone/)
 
 ## Overview  
 Welcome to the Myntra Frontend Clone! This project replicates the visual design and layout of the popular fashion e-commerce platform, Myntra. It is built using HTML, CSS, and a small amount of JavaScript to deliver a responsive and interactive shopping experience. The website features product listings, a search bar, and intuitive navigation for seamless browsing.
@@ -17,7 +17,7 @@ Welcome to the Myntra Frontend Clone! This project replicates the visual design 
    - Simple and clear navigation for browsing categories and collections.
 
 ## Usage  
-To explore the Myntra Frontend Clone, visit ((https://poornachandrapc7.github.io/Myntra-Clone/)) and try out its features:
+To explore the Myntra Frontend Clone, visit (https://poornachandrapc7.github.io/Myntra-Clone/) and try out its features:
 
 - **Product Listings**: Browse through the product catalog, with hover effects for an interactive feel.  
 - **Navigation**: Use the navigation bar to easily access categories and collections.
